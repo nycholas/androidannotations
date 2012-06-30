@@ -24,14 +24,11 @@ public abstract class GreenDroidConstants {
 
 	public static final String GREENDROID_GD_LIST_ACTIVITY_CLASS = "greendroid.app.GDListActivity";
 
-	public static final String GREENDROID_GD_TAB_ACTIVITY_CLASS = "greendroid.app.GDTabActivity";
-
 	public static final String GREENDROID_GD_MAP_ACTIVITY_CLASS = "greendroid.app.GDMapActivity";
 
 	public static final List<String> GREENDROID_ACTIVITIES_LIST_CLASS = Arrays.asList(new String[] { //
 			GREENDROID_GD_ACTIVITY_CLASS, //
 					GREENDROID_GD_LIST_ACTIVITY_CLASS, //
-					GREENDROID_GD_TAB_ACTIVITY_CLASS, //
 					GREENDROID_GD_MAP_ACTIVITY_CLASS //
 			});
 
